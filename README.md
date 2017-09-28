@@ -1,4 +1,4 @@
-Musafir is 3D Game for android platform. We were at EATL app contest competition.Me and Biplab Chandra Nag made this game.We were grand finalist of that compitition
+Musafir is 3D Game for android platform. We were at EATL app contest competition.Me and Biplab Chandra Nag made this game.We were grand finalist of that compitition.
 
 http://eatlapps.com/apps/app_details/201751
 
